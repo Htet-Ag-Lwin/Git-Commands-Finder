@@ -1,0 +1,16 @@
+@font-face {
+  font-family: inkFree;
+  src: url(Inkfree.ttf);
+}
+
+input[type="text"] {
+  font-family: inkFree;
+}
+
+h1 {
+  font-family: inkFree;
+}
+
+body {
+  background-image: linear-gradient(#bdc3c7, #2c3e50);
+}
